@@ -109,7 +109,7 @@ Jupyter Notebook (for .ipynb file)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Speech-Emotion-Recognition.git
+git clone https://github.com/PONNADIAN/Speech-Emotion-Recognition.git
 cd Speech-Emotion-Recognition
 ```
 
